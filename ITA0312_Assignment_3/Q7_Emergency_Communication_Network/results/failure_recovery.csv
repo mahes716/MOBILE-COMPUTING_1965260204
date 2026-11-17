@@ -1,0 +1,2 @@
+Failed_Link,Alternative_Route_Available,Alternative_Route,Failure_Handling
+Rescue_1 - Rescue_2,True,Ambulance -> Rescue_1 -> Foreign_Agent_1 -> Foreign_Agent_2 -> Command_Center,Route rediscovery using alternate path

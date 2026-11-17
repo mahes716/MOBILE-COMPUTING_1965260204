@@ -1,0 +1,9 @@
+EMERGENCY AMBULANCE COMMUNICATION RESULTS
+-----------------------------------------
+Total Packets: 100
+Delivered Packets: 93
+Lost Packets: 7
+Handoffs: 2
+Packet Delivery Ratio: 93.00%
+Packet Loss Rate: 7.00%
+Average Delay: 39.89 ms

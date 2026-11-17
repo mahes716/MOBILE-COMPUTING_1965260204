@@ -1,0 +1,3 @@
+Protocol,Route Discovery,Control Messages,Initial Delay (ms),Routing Table,Mobility Handling
+AODV,On demand,19,63,Routes maintained when needed,Route rediscovery after failure
+DSDV,Proactive,42,25,Routes maintained continuously,Routing updates after topology changes

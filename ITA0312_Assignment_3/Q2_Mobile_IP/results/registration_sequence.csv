@@ -1,0 +1,7 @@
+Step,Entity,Action
+1,Mobile Node,Agent Discovery
+2,Foreign Agent,Advertisement / Care-of Address
+3,Mobile Node,Registration Request
+4,Home Agent,Binding Update
+5,Home Agent,Registration Reply
+6,Foreign Agent,Registration Confirmation

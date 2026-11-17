@@ -1,0 +1,9 @@
+CELLULAR NETWORK
+Connected: True
+Mobile 1 to Server Path: ['Mobile 1', 'Base Station', 'Core Network', 'Server']
+Components after Base Station Failure: 4
+
+AD HOC NETWORK
+Connected: True
+Node A to Node E Path: ['Node A', 'Node B', 'Node C', 'Node E']
+Components after Node B Failure: 2

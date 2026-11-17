@@ -1,0 +1,7 @@
+Source,Destination,Before Next Hop,Before Hops,After Next Hop,After Hops
+A,A,-,0,-,0
+A,B,B,1,B,1
+A,C,C,1,C,1
+A,D,B,2,B,2
+A,E,C,2,C,2
+A,F,B,3,B,3

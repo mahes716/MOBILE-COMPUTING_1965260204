@@ -1,0 +1,6 @@
+Network Changes,Total Registration Delay (ms),Delivered Packets,Lost Packets,Packet Delivery Ratio (%)
+1,100,47,3,94.0
+3,300,49,1,98.0
+5,500,47,3,94.0
+8,800,40,10,80.0
+10,1000,43,7,86.0

@@ -1,0 +1,4 @@
+Number of Nodes,Routing Table Entries,Route Availability (%),Average Hop Count
+6,30,100.0,1.53
+10,90,100.0,2.22
+14,182,100.0,2.48

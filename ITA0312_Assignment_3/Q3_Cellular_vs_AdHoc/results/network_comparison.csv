@@ -1,0 +1,10 @@
+Parameter,Cellular Network,Ad Hoc Network
+Infrastructure,Requires base stations,No fixed infrastructure
+Communication,Through base stations,Direct or multi-hop between nodes
+Routing,Infrastructure-managed,Distributed routing
+Mobility,Movement between cells,Nodes move independently
+Topology,Cell-based structure,Dynamic and changing topology
+Scalability,Supports large coverage areas,Depends on node density and resources
+Handoff,Handoff between base stations,Routes may change as nodes move
+Failure Handling,May be affected by base station failure,Can use alternate node paths
+Applications,Mobile networks and cellular services,Disaster recovery and temporary networks

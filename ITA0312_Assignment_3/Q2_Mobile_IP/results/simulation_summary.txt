@@ -1,0 +1,9 @@
+MOBILE IP SIMULATION RESULTS
+----------------------------
+Total Packets: 50
+Delivered Packets: 46
+Lost Packets: 4
+Packet Delivery Ratio: 92.00%
+Packet Loss Rate: 8.00%
+Average Delay: 45.23 ms
+Tunnel Overhead: 20 bytes

@@ -1,0 +1,9 @@
+MOBILE EMERGENCY COMMUNICATION NETWORK SUMMARY
+------------------------------------------------
+Total packets: 100
+Packets delivered: 96
+Packet delivery ratio: 96.00%
+Average delay of delivered packets: 49.92 ms
+Initial route: ['Ambulance', 'Rescue_1', 'Rescue_2', 'Medical_Team', 'Command_Center']
+Alternative route after link failure: ['Ambulance', 'Rescue_1', 'Foreign_Agent_1', 'Foreign_Agent_2', 'Command_Center']
+Mobile IP registration and tunnelling: conceptual sequence recorded

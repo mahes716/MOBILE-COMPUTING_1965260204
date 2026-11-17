@@ -1,0 +1,6 @@
+Step,From,To,Process
+1,Ambulance,Home Agent,Agent discovery
+2,Ambulance,Foreign Agent 1,Care-of address acquired
+3,Foreign Agent 1,Home Agent,Registration request
+4,Home Agent,Foreign Agent 1,Registration reply
+5,Home Agent,Ambulance,Tunneled packet delivery

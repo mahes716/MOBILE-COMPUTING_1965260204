@@ -1,0 +1,6 @@
+DSDV ROUTING SIMULATION
+-----------------------
+Nodes: 6
+Failed Link: C-D
+Periodic Update Entries: 120
+Update Interval: 5 seconds

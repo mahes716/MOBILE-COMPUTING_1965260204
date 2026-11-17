@@ -1,0 +1,16 @@
+Configured_Nodes,Connected_Nodes,Mobility,Estimated_Delay_ms,Estimated_Routing_Overhead_Entries,Estimated_Packet_Delivery_Percent
+5,2,Low,46.0,1.0,91.75
+5,2,Medium,52.0,1.5,89.25
+5,2,High,60.4,2.2,85.75
+10,10,Low,50.0,12.0,90.5
+10,10,Medium,56.0,18.0,88.0
+10,10,High,64.4,26.4,84.5
+15,15,Low,54.0,25.0,89.25
+15,15,Medium,60.0,37.5,86.75
+15,15,High,68.4,55.0,83.25
+20,20,Low,58.0,57.0,88.0
+20,20,Medium,64.0,85.5,85.5
+20,20,High,72.4,125.4,82.0
+25,25,Low,62.0,80.0,86.75
+25,25,Medium,68.0,120.0,84.25
+25,25,High,76.4,176.0,80.75

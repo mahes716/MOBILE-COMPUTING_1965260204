@@ -1,0 +1,9 @@
+WIRELESS NETWORK SIMULATION RESULTS
+-----------------------------------
+Total Packets: 30
+Successful Packets: 26
+Lost Packets: 4
+Packet Delivery Ratio: 86.67%
+Packet Loss Rate: 13.33%
+Average Delay: 15.62 ms
+Bandwidth: 10 Mbps

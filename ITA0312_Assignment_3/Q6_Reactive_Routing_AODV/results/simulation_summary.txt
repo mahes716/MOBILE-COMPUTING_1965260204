@@ -1,0 +1,11 @@
+AODV VS DSDV SIMULATION SUMMARY
+--------------------------------
+Source: A
+Destination: G
+AODV RREQ transmissions: 15
+AODV RREP transmissions: 4
+Initial AODV route: ['A', 'B', 'D', 'F', 'G']
+Alternative route: ['A', 'B', 'D', 'F', 'G']
+Failed link: C-E
+Illustrative AODV delay: 63 ms
+Illustrative DSDV delay: 25 ms

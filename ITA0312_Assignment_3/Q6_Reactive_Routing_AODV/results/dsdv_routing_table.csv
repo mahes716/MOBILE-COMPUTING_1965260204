@@ -1,0 +1,8 @@
+Source,Destination,Next Hop,Hops,Route Status
+A,A,-,0,Available
+A,B,B,1,Available
+A,C,C,1,Available
+A,D,B,2,Available
+A,E,C,2,Available
+A,F,B,3,Available
+A,G,B,4,Available
